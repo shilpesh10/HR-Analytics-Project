@@ -3,16 +3,21 @@ This project involves analyzing employee attrition using Power BI to provide HR 
 # Problem Statement:
 The company has been facing the attrition issue which is impacting their value in the market and the company is also losing its performance to address this issue, it’s very essential to know the reasons behind the attrition and find out insights to attract new as well as existing employees.
 # Tools and Technologies:
-MySQL: Used for extraction, transformation, and analyzing data. 
+MySQL: Used for extraction, transformation, and analyzing data.
+
 Power BI: Utilized for creating interactive dashboards and visualizing the data insights.
 # Dashboard Image:
 ![Dashboard_1](https://github.com/user-attachments/assets/452b359a-78f1-4c35-9582-f97fcb5661c1)
 
 # Key Take Aways:
 •	Sales department has the highest Attrition rate.
+
 •	Age group 25 – 34 has the highest number of employees.
+
 •	Sales Executive has the highest job satisfaction rating.
+
 •	Life Sciences has the highest number of Attrition.
+
 •	Most of the Attrition count comes from the age group 25 – 34.
 
 # Conclusion: 
